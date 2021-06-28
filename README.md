@@ -21,8 +21,6 @@ Skills: SVELTE JS / JS / HTML / CSS
 ![Profile views](https://gpvc.arturio.dev/sweety127)  
 
 
-
-
 You can check out my instagram at https://www.instagram.com/i_t_s_sweety/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sweety127)](https://github.com/anuraghazra/github-readme-stats)
