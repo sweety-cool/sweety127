@@ -13,7 +13,6 @@ I'm **Kazi Enamun Khatun** from India, and i do content on Web Design and Develo
 
 
 
-Skills: SVELTE JS / JS / HTML / CSS
 
 
 **I'm working as a freelancer**
