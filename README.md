@@ -6,13 +6,13 @@
 I'm **Kazi Enamun Khatun** from India, and i do content on Web Design and Development.& I really enjoy learning language,frameworks and databases like Svelte js,Prisma & Directus,as well as i also enjoy UI/UX design.
 
 ## Skills & Experience
-*📲Svelte JS
-*📖Directus,Prisma,GraphQl
-* 💻HTML&CSS,JS
+*📲 Svelte JS
+*📖 Directus,Prisma,GraphQl
+*💻 HTML&CSS,JS
 
 
 
-Skills: SVELTE JS / JS / HTML / CSS
+
 
 
 **I'm working as a freelancer**
