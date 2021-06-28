@@ -1,8 +1,15 @@
-### Hi there 👋, Kazi Enamun Khatun
-#### Designer and Developer
 ![Designer and Developer](https://avatars.githubusercontent.com/u/60088179?v=4)
 
+### Hi there 👋, Kazi Enamun Khatun
+#### Designer & Developer
+
 I'm **Kazi Enamun Khatun** from India, and i do content on Web Design and Development.& I really enjoy learning language,frameworks and databases like Svelte js,Prisma & Directus,as well as i also enjoy UI/UX design.
+
+## Skills & Experience
+*<img src="![image](https://user-images.githubusercontent.com/60088179/123680023-d7474200-d865-11eb-831e-c61529895f58.png)" width="20";height="20">https://svelte.dev/ Svelte js
+*⚛️ Graphqlhttps://github.com/graphql
+
+
 
 Skills: SVELTE JS / JS / HTML / CSS
 
