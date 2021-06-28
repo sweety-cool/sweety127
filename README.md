@@ -7,9 +7,9 @@ I'm **Kazi Enamun Khatun** from India, and i do content on Web Design and Develo
 
 ## Skills & Experience
 
-## 📲Svelte JS
-### 📚Directus,Prisma,GraphQl
-### 💻HTML&CSS,JS
+###### 📲Svelte JS
+###### 📚Directus,Prisma,GraphQl
+###### 💻HTML&CSS,JS
 
 
 
